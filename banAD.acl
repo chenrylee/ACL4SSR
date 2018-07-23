@@ -1631,6 +1631,9 @@
 ^(.*\.)?localhost$
 ^(.*\.)?ip6-localhost$
 ^(.*\.)?ip6-loopback$
+^(.*\.)aac\.com$
+^(.*\.)test\.com$
+^(.*\.)aactechnologies\.com$
 
 ::ffff:0:0:0:0/1
 ::ffff:128:0:0:0/1
