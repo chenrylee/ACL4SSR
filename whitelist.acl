@@ -11,7 +11,7 @@
 # Netease cloud music
 (^|\.)163\.com$
 (^|\.)netease\.com$
-(^|\.)126\.net$
+(^|\.)music\.126\.net$
 
 # enterprise url
 (^|\.)aac\.com$
