@@ -9,9 +9,9 @@
 192.168.0.0/16
 
 # Netease cloud music
-(^|\.)163\.com$
-(^|\.)netease\.com$
-(^|\.)music\.126\.net$
+(^|.*\.)163\.com$
+(^|.*\.)netease\.com$
+(^|.*\.)music\.126\.net$
 
 # enterprise url
 (^|\.)aac\.com$
