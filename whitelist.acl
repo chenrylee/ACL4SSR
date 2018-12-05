@@ -1,0 +1,17 @@
+[proxy_all]
+
+[bypass_list]
+# local loop
+127.0.0.1/32
+# private subnets
+10.0.0.0/8
+172.16.0.0/12
+192.168.0.0/16
+
+# Netease cloud music
+(^|\.)163\.com$
+(^|\.)netease\.com$
+
+# enterprise url
+(^|\.)aac\.com$
+(^|\.)aactechnologies\.com$
