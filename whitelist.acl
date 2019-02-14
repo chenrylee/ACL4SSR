@@ -14,5 +14,9 @@
 (^|.*\.)music\.126\.net$
 
 # enterprise url
-(^|\.)aac\.com$
-(^|\.)aactechnologies\.com$
+(^|.*\.)aac\.com$
+(^|.*\.)aactechnologies\.com$
+(^|.*\.)aact\.com$
+(^|.*\.)oa\.com$
+(^|.*\.)test\.com$
+(^|.*\.)aac\.tech$
